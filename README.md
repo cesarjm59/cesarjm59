@@ -85,7 +85,7 @@
 </p>
 -->
 
- ### - What i do
+ ### - Que hago
 
 <br />
 
@@ -96,7 +96,7 @@
    
 <br />
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'>⚡️<i> Mantente increíble </i>⚡️</h1>
 
 -----
 Credits: [bornmay](https://github.com/bornmay)
