@@ -12,7 +12,6 @@
 <a href="https://www.facebook.com/cesar.jm.507464/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" alt="Facebook"></a>&nbsp;&nbsp;
  </p>
 
-
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Cesar Morales | 💻 Programador Novato | 🛸 Perú , Lima <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
@@ -40,6 +39,9 @@
  
  - 🎮 Uso java, c++ y pyhton 
  
+
+
+
  
  <p align="center">
   <h4> SQL | Full Stack | Typescript | Competitive Programming </h4>
