@@ -9,7 +9,7 @@
    <a href="https://www.linkedin.com/in/cesar-jacaycucho-morales-135a773a0/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://x.com/Njirana2005"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/cesarjm59"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/cesar.jm.507464/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/facebook.png?raw=true"></a>&nbsp;&nbsp;   
+<a href="https://www.facebook.com/cesar.jm.507464/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" alt="Facebook"></a>&nbsp;&nbsp;
  </p>
 
 
