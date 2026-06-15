@@ -44,19 +44,15 @@
 
  
  <p align="center">
-  <h4> SQL | Full Stack | Typescript | Competitive Programming </h4>
+  <h4> Entusiasta de la Ciberseguridad | Aprendizaje Continuo | Entusiasta Tecnológico | Estudiante de Programación </h4>
    </p>
 
 
 
 
 <!--  -->
-
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemant&&show_icons=true&theme=radical"/>
-  </a>
-
+</p>
+--------------------------------------------------------------------------------------
 </p>
 
 <br />
