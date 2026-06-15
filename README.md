@@ -19,7 +19,7 @@
 
 
 <p align="center">
-   <a href="https://x.com/Njirana2005"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_born_may?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_born_may"></a>
+   <a href="https://x.com/Njirana2005"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_born_may?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@Njirana2005"></a>
    <a href="https://badges.pufler.dev/visits/bornmay/bornmay"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/bornmay/bornmay"> </a>
  </p>
  
