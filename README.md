@@ -31,22 +31,15 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 18 years old Self-taught Full-Stack developer from India.</h3>
+  <h3> Tengo algunos meses entrando a el mundo de la programación</h3>
 </p>
+  
+ - 🌶️ Fanatico de los Red hot 
 
- - 🥀 Learning GraphQl NextJs  & Typescript
+ - 🛸 Me apasiona la fisica, ciberseguridad y videojuegos
  
- - <i>with Javascript, Typescript, React and 69 others.</i>
-   
- - 🔭 SpaceX FanBoi, Vanilla in Space😼
-
- - 🛸 Into High Energy Physics and Astrophysics, i love shotting stars too.
+ - 🎮 Uso java, c++ y pyhton 
  
- - I do ReactJS and Typescript with *Redux Caching* and a lot of love :heart:
- 
- - Graphql Exhaust
- 
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_born_may/)
  
  <p align="center">
   <h4> SQL | Full Stack | Typescript | Competitive Programming </h4>
